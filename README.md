@@ -1,10 +1,5 @@
 # Hey, I'm Derick Felix 👋
 
-### Software Engineer & Tech Enthusiast
-
-I love all things tech. I've been programming since the age of 14, and working as a Software Engineer since 17. I eventually find some time to contribute on open source projects.
-
-[![GitHub](https://img.shields.io/badge/GitHub-derickfelix-black)](https://github.com/derickfelix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-derickfelix-blue)](https://linkedin.com/in/derickfelix)
 [![YouTube](https://img.shields.io/badge/YouTube-Derick%20Felix-red)](https://www.youtube.com/channel/UCLyf-iS2wP7fp804_B5qUOg)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Derick%20Felix-orange)](https://stackoverflow.com/users/8413528/derick-felix?tab=profile)
