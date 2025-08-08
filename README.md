@@ -1,4 +1,4 @@
-# Hey, I'm Derick Felix 👋
+# Hey, I'm Derick Florencio 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-derickfelix-blue)](https://linkedin.com/in/derickfelix)
 [![YouTube](https://img.shields.io/badge/YouTube-Derick%20Florencio-red)](https://www.youtube.com/@thederickff)
